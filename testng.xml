@@ -6,5 +6,5 @@
 	<classes>
 		<class name="testrunners.MyTestRunner"/>
 	</classes>
-  </test> <!-- Test -->
+     </test> <!-- Test -->
 </suite> <!-- Suite -->
